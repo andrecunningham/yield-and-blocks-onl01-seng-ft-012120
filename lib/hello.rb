@@ -7,5 +7,5 @@ let (:names) { ["Tim", "Tom", "Jim"] }
       .to_stdout
 end
 
-# call your method here!
+
 
